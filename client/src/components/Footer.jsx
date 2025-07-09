@@ -8,10 +8,11 @@ const Footer = () => {
         <div>
           <img src={assets.logo} alt="logo" className="w-32 sm:w-44" />
           <p className="max-w-[410px] mt-6">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-            deleniti aut vitae, veniam aliquid debitis assumenda, quasi error
-            necessitatibus molestias, similique possimus eveniet alias laborum
-            voluptate veritatis dolore eum mollitia.
+            Welcome to BlogNow – your personal space to create, explore, and
+            share stories. Powered by AI, you can instantly generate engaging
+            content, publish it with ease, and connect with readers through
+            comments. Whether you're a thinker, writer, or reader — your voice
+            belongs here.".
           </p>
         </div>
         <div className="flex flex-wrap justify-between w-full md:w-[45%] gap-5">
