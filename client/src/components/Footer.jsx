@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
           <img src={assets.logo} alt="logo" className="w-32 sm:w-44" />
           <p className="max-w-[410px] mt-6">
-            Welcome to BlogNow – your personal space to create, explore, and
+            Welcome to QuickBlog – your personal space to create, explore, and
             share stories. Powered by AI, you can instantly generate engaging
             content, publish it with ease, and connect with readers through
             comments. Whether you're a thinker, writer, or reader — your voice
